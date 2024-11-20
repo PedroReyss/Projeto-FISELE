@@ -1,0 +1,16 @@
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\bin\Release\Proj_FISELE.exe.config
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\bin\Release\Proj_FISELE.exe
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\bin\Release\Proj_FISELE.pdb
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.exe
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.pdb
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\bin\Release\Proj_FISELE.exe.config
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\bin\Release\Proj_FISELE.exe
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\bin\Release\Proj_FISELE.pdb
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.exe
+C:\Users\pedro\Downloads\Proj_FISELE\Proj_FISELE\Proj_FISELE\obj\Release\Proj_FISELE.pdb

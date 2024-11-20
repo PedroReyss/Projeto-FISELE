@@ -1,0 +1,8 @@
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\bin\Debug\Proj_FISELE.exe.config
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\bin\Debug\Proj_FISELE.exe
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\bin\Debug\Proj_FISELE.pdb
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Debug\Proj_FISELE.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Debug\Proj_FISELE.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Debug\Proj_FISELE.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Debug\Proj_FISELE.exe
+C:\Users\mathe\Desktop\Projects\Proj_FISELE\Proj_FISELE\obj\Debug\Proj_FISELE.pdb
